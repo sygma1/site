@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <title>acceuil</title>
+  </head>
+  <body>
+    <header>
+      <h1> les reseau socicaux </h1>
+    </header>
+    <section>
+      <nav>
+        <ul>
+          <li><a class="active" href="acceuil">acceuil</a></li>
+          <li><a href="page2">page 2</a></li>
+          <li><a href="page3">page 3</a></li>
+        </ul>
+      </nav>
+      <article>
+        <p>A social network is a social structure made up of a set of social
+          actors (such as individuals or organizations), sets of dyadic ties,
+          and other social interactions between actors.<br>
+          The social network perspective provides a set of methods for analyzing
+          the structure of whole social entities as well as a variety of
+          theories explaining the patterns observed in these structures.<br>
+          [1] The study of these structures uses social network analysis to
+          identify local and global patterns, locate influential entities, and
+          examine network dynamics.<br>
+          Social networks and the analysis of them is an inherently
+          interdisciplinary academic field which emerged from social psychology,
+          sociology, statistics, and graph theory.<br>
+          Georg Simmel authored early structural theories in sociology
+          emphasizing the dynamics of triads and "web of group affiliations".[2]
+          Jacob Moreno is credited with developing the first sociograms in the
+          1930s to study interpersonal relationships.<br>
+          These approaches were mathematically formalized in the 1950s and
+          theories and methods of social networks became pervasive in the social
+          and behavioral sciences by the 1980s.<br>
+          [1][3] Social network analysis is now one of the major paradigms in
+          contemporary sociology, and is also employed in a number of other
+          social and formal sciences.<br>
+          Together with other complex networks, it forms part of the nascent
+          field of network science.[4][5]</p>
+      </article>
+    </section>
+    <footer>email</footer>
+  </body>
+</html>
